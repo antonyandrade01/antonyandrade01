@@ -1,6 +1,6 @@
 <!-- Personalized Banner Block -->
 <p align="center">
-  <img src="URL_DO_SEU_BANNER" alt="Antony Andrade - Cloud & DevOps Engineer Banner">
+  <img src="https://github.com/antonyandrade01/.github/blob/main/assets/BannerPerfil.png?raw=true" alt="Antony Andrade - Cloud & DevOps Engineer Banner">
 </p>
 
 <!-- Introduction Block (English is default) -->
@@ -53,14 +53,12 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/antonyandrade01/clinica-evolution-architecture">
-        <!-- SUBSTITUA A URL ABAIXO -->
-        <img src="URL_DA_SUA_ARQUITETURA_DOCKER" alt="Docker Architecture" width="95%">
+        <img src="https://github.com/antonyandrade01/clinica-evolution-architecture/blob/main/docs/images/arquitetura.png?raw=true" alt="Docker Architecture" width="95%">
       </a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/antonyandrade01/clinica-evolution-aws-terraform-deployment">
-        <!-- SUBSTITUA A URL ABAIXO -->
-        <img src="URL_DA_SUA_ARQUITETURA_AWS" alt="AWS Architecture" width="95%">
+        <img src="https://github.com/antonyandrade01/.github/blob/main/assets/CloudArchitectureBlueprint.png?raw=true" alt="AWS Architecture" width="95%">
       </a>
     </td>
   </tr>
