@@ -37,45 +37,60 @@
 ---
 <!-- Featured Projects Block -->
 <h3 align="center">🚀 My Featured Projects / Meus Projetos em Destaque 🚀</h3>
-<p align="center">This is the hands-on demonstration of my journey: from local architecture to automated cloud deployment.<br><i>Esta é a demonstração prática da minha jornada: da arquitetura local à implantação automatizada na nuvem.</i></p>
+<p align="center">This is the hands-on demonstration of my journey: from local architecture to a fully automated cloud deployment.<br><i>Esta é a demonstração prática da minha jornada: da arquitetura local à implantação totalmente automatizada na nuvem.</i></p>
 
 <table width="100%">
   <!-- Column Titles -->
   <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">1. Local Architecture with Docker</h4>
+    <td width="33%" valign="top">
+      <h4 align="center">1. Professional Docker Architecture</h4>
     </td>
-    <td width="50%" valign="top">
-      <h4 align="center">2. AWS Deployment with Terraform</h4>
+    <td width="33%" valign="top">
+      <h4 align="center">2. AWS IaC with Terraform</h4>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">3. CI/CD Pipeline Automation</h4>
     </td>
   </tr>
   <!-- Project Images -->
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="33%" valign="top" align="center">
       <a href="https://github.com/antonyandrade01/clinica-evolution-architecture">
         <img src="https://github.com/antonyandrade01/clinica-evolution-architecture/blob/main/docs/images/arquitetura.png?raw=true" alt="Docker Architecture" width="95%">
       </a>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="33%" valign="top" align="center">
       <a href="https://github.com/antonyandrade01/clinica-evolution-aws-terraform-deployment">
         <img src="https://github.com/antonyandrade01/.github/blob/main/assets/CloudArchitectureBlueprint.png?raw=true" alt="AWS Architecture" width="95%">
+      </a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="#">
+        <img src="https://github.com/antonyandrade01/.github/blob/main/assets/CI-CD-Pipeline.png?raw=true" alt="CI/CD Pipeline" width="95%">
       </a>
     </td>
   </tr>
   <!-- Descriptions and Stacks -->
   <tr>
-    <td width="50%" valign="top">
-      <p><b>EN:</b> Architectural planning and documentation for the "Clínica Evolution" app, fully containerized with <b>Docker Compose</b>. This project demonstrates my skills in multi-service containerization and local environment setup.<br><br><b>PT:</b> Planejamento e documentação da arquitetura original da aplicação "Clínica Evolution", totalmente containerizada com <b>Docker Compose</b>. Este projeto demonstra minhas habilidades em containerização de múltiplos serviços e configuração de ambiente local.</p>
+    <td width="33%" valign="top">
+      <p><b>EN:</b> Architectural design for the 'Clínica Evolution' app, containerized with <b>Docker Compose</b>. This project showcases professional DevOps patterns, including <b>multi-stage builds</b> for optimized images, enhanced security with a <b>non-root user</b>, and robust initialization via an <b>entrypoint script</b>.<br><br><b>PT:</b> Design da arquitetura da aplicação 'Clínica Evolution', containerizada com <b>Docker Compose</b>. Este projeto demonstra padrões de DevOps profissionais, incluindo <b>multi-stage builds</b> para imagens otimizadas, segurança aprimorada com usuário <b>não-root</b> e inicialização robusta via <b>entrypoint script</b>.</p>
       <p align="center">
         <b>Tech Stack:</b><br>
         <img src="https://skillicons.dev/icons?i=docker,python,flask,mysql,nginx,redis" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <p><b>EN (Planned):</b> An Infrastructure as Code (IaC) project to provision the application's environment on AWS in a fully automated way using <b>Terraform</b>, leveraging managed services like RDS and ElastiCache.<br><br><b>PT (Planejado):</b> Projeto de Infraestrutura como Código (IaC) para provisionar o ambiente da aplicação na AWS de forma 100% automatizada com <b>Terraform</b>, utilizando serviços gerenciados como RDS e ElastiCache.</p>
+    <td width="33%" valign="top">
+      <p><b>EN (In Progress):</b> An Infrastructure as Code (IaC) project to provision the application's environment on AWS in a fully automated way using <b>Terraform</b>, leveraging managed services like RDS and ElastiCache.<br><br><b>PT (Em Andamento):</b> Projeto de Infraestrutura como Código (IaC) para provisionar o ambiente da aplicação na AWS de forma 100% automatizada com <b>Terraform</b>, utilizando serviços gerenciados como RDS e ElastiCache.</p>
       <p align="center">
         <b>Tech Stack:</b><br>
         <img src="https://skillicons.dev/icons?i=aws,terraform,ec2,rds,vpc,s3" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <p><b>EN (Next Step):</b> Implementation of a complete CI/CD pipeline using <b>GitHub Actions</b>. The goal is to automate the entire workflow: from code commit to building the Docker image, pushing it to a registry (ECR), and deploying it to the cloud.<br><br><b>PT (Próximo Passo):</b> Implementação de um pipeline de CI/CD completo com <b>GitHub Actions</b>. O objetivo é automatizar todo o fluxo: do commit do código à construção da imagem Docker, envio para um registro (ECR) e deploy na nuvem.</p>
+      <p align="center">
+        <b>Tech Stack:</b><br>
+        <img src="https://skillicons.dev/icons?i=githubactions,docker,aws" />
       </p>
     </td>
   </tr>
