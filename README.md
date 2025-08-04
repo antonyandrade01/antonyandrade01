@@ -127,10 +127,3 @@
     <img alt="Antony's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=antonyandrade01&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true" />
   </a>
 </p>
-
-<h3 align="center">⏰ My Coding Activity / Minha Atividade de Código ⏰</h3>
-<p align="center">
-    <a href="https://wakatime.com/@antonyandrade01">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=antonyandrade01&layout=compact&theme=react&bg_color=0d1117&border_color=00b4d8" alt="WakaTime Stats"/>
-    </a>
-</p>
