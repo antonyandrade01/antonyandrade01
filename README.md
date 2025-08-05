@@ -34,7 +34,7 @@
 </div>
 
 <details>
-  <summary><b>⚙️ 1. Total Automation / 𝗔𝘂𝘁𝗼𝗺𝗮𝗰ã𝗼 𝗧𝗼𝘁𝗮𝗹</b></summary>
+  <summary><b>⚙️ 1. Total Automation / Automação Total</b></summary>
   <p>
     <b>EN:</b> If a task is repetitive, it must be automated. Time is valuable.<br>
     <b>PT:</b> Se uma tarefa é repetitiva, ela deve ser automatizada. O tempo é valioso.
@@ -42,7 +42,7 @@
 </details>
 
 <details>
-  <summary><b>📜 2. "Everything as Code" / "𝗧𝘂𝗱𝗼 𝗰𝗼𝗺𝗼 𝗖ó𝗱𝗶𝗴𝗼"</b></summary>
+  <summary><b>📜 2. "Everything as Code" / Tudo como Código</b></summary>
   <p>
     <b>EN:</b> Infrastructure and pipelines must be versioned and testable. I use tools like Terraform and Docker to ensure every environment is consistent, secure, and recreatable at any moment.<br>
     <b>PT:</b> Infraestrutura e pipelines devem ser versionados e testáveis. Utilizo ferramentas como Terraform e Docker para garantir que cada ambiente seja consistente, seguro e recriável a qualquer momento.
@@ -50,7 +50,7 @@
 </details>
 
 <details>
-  <summary><b>🚀 3. Theory without Practice is Incomplete / 𝗧𝗲𝗼𝗿𝗶𝗮 𝘀𝗲𝗺 𝗣𝗿á𝘁𝗶𝗰𝗮 é 𝗜𝗻𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗮</b></summary>
+  <summary><b>🚀 3. Theory without Practice is Incomplete / Teoria sem Prática é Incompleta</b></summary>
   <p>
     <b>EN:</b> Certifications are important to validate knowledge, but true competence is proven in practice. Every concept I study is immediately applied to my projects, transforming theory into functional solutions.<br>
     <b>PT:</b> Certificações são importantes para validar o conhecimento, mas a verdadeira competência é provada na prática. Cada conceito que estudo é imediatamente aplicado nos meus projetos, transformando teoria em soluções funcionais.
