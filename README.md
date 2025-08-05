@@ -120,18 +120,42 @@
 </table>
 
 ---
-<h3 align="center">📊 My GitHub Stats & Trophies / Minhas Estatísticas e Troféus 📊</h3>
+<h3 align="center">📊 My GitHub Activity & Trophies / Minhas Atividades e Troféus no GitHub 📊</h3>
+
+<div align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=antonyandrade01&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=antonyandrade01&bg_color=fffeff&color=24292e&line=00b4d8&point=24292e&area=true&hide_border=true"
+    >
+    <img 
+      alt="Antony's Activity Graph" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=antonyandrade01&bg_color=fffeff&color=24292e&line=00b4d8&point=24292e&area=true&hide_border=true"
+    >
+  </picture>
+</div>
+
+<div align="center"> 
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-profile-trophy.vercel.app/?username=antonyandrade01&theme=dracula&column=-1&no-frame=true&no-bg=true&margin-w=15&rank=-?"
+    >
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-profile-trophy.vercel.app/?username=antonyandrade01&theme=flat&column=-1&no-frame=true&no-bg=true&margin-w=15&rank=-?"
+    >
+    <img 
+      alt="Antony's GitHub Trophies" 
+      src="https://github-profile-trophy.vercel.app/?username=antonyandrade01&theme=flat&column=-1&no-frame=true&no-bg=true&margin-w=15&rank=-?"
+    >
+  </picture>
+</div>
 
 <p align="center">
-    <!-- GitHub Stats Card with Custom Theme -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=antonyandrade01&show_icons=true&include_all_commits=true&count_private=true&theme=react&border_color=00b4d8&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117" alt="Antony's GitHub Stats"/>
-</p>
-<p align="center">
-    <!-- GitHub Trophies -->
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=antonyandrade01&theme=dracula&column=7" alt="Antony's GitHub Trophies"/>
-</p>
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Antony's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=antonyandrade01&bg_color=0d1117&color=ffffff&line=00b4d8&point=ffffff&area=true&hide_border=true" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00b4d8&height=150§ion=footer"/>
 </p>
