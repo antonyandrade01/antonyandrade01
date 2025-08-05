@@ -143,15 +143,15 @@
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
-      srcset="https://github-profile-trophy.vercel.app/?username=antonyandrade01&theme=dracula&column=-1&no-frame=true&no-bg=true&margin-w=15&rank=-?"
+      srcset="https://github-profile-trophy.vercel.app/?username=antonyandrade01&theme=discord&column=-1&no-frame=true&no-bg=true&margin-w=15&rank=-?"
     >
     <source 
       media="(prefers-color-scheme: light)" 
-      srcset="https://github-profile-trophy.vercel.app/?username=antonyandrade01&theme=discord&column=-1&no-frame=true&no-bg=true&margin-w=15&rank=-?"
+      srcset="https://github-profile-trophy.vercel.app/?username=antonyandrade01&theme=flat&column=-1&no-frame=true&no-bg=true&margin-w=15&rank=-?"
     >
     <img 
       alt="Antony's GitHub Trophies" 
-      src="https://github-profile-trophy.vercel.app/?username=antonyandrade01&theme=discord&column=-1&no-frame=true&no-bg=true&margin-w=15&rank=-?"
+      src="https://github-profile-trophy.vercel.app/?username=antonyandrade01&theme=flat&column=-1&no-frame=true&no-bg=true&margin-w=15&rank=-?"
     >
   </picture>
 </div>
