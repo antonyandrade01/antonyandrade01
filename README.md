@@ -33,20 +33,28 @@
 <p><b>EN:</b> Three core principles guide my work.<br><b>PT:</b> Três princípios fundamentais guiam meu trabalho.</p>
 </div>
 
-<!-- CORREÇÃO: Esta seção foi totalmente traduzida e formatada com <details> e <b> -->
 <details>
-  <summary><b>1. Automate Everything That Can Be Automated.</b></summary>
-  <p><b>EN:</b> If you have to do it more than twice, script it. Time is the most valuable resource.<br><b>PT:</b> Se você precisa fazer algo mais de duas vezes, automatize. Tempo é o recurso mais valioso.</p>
+  <summary><b>⚙️ 1. Total Automation / 𝗔𝘂𝘁𝗼𝗺𝗮𝗰ã𝗼 𝗧𝗼𝘁𝗮𝗹</b></summary>
+  <p>
+    <b>EN:</b> If a task is repetitive, it must be automated. Time is valuable.<br>
+    <b>PT:</b> Se uma tarefa é repetitiva, ela deve ser automatizada. O tempo é valioso.
+  </p>
 </details>
 
 <details>
-  <summary><b>2. "Everything as Code" is Non-Negotiable.</b></summary>
-  <p><b>EN:</b> Infrastructure, pipelines, and configurations should be versioned, repeatable, and auditable, just like application code.<br><b>PT:</b> Infraestrutura, pipelines e configurações devem ser versionadas, repetíveis e auditáveis, assim como o código da aplicação.</p>
+  <summary><b>📜 2. "Everything as Code" / "𝗧𝘂𝗱𝗼 𝗰𝗼𝗺𝗼 𝗖ó𝗱𝗶𝗴𝗼"</b></summary>
+  <p>
+    <b>EN:</b> Infrastructure and pipelines must be versioned and testable. I use tools like Terraform and Docker to ensure every environment is consistent, secure, and recreatable at any moment.<br>
+    <b>PT:</b> Infraestrutura e pipelines devem ser versionados e testáveis. Utilizo ferramentas como Terraform e Docker para garantir que cada ambiente seja consistente, seguro e recriável a qualquer momento.
+  </p>
 </details>
 
 <details>
-  <summary><b>3. Theory without Practice is Incomplete.</b></summary>
-  <p><b>EN:</b> Certifications validate knowledge, but hands-on projects prove capability. This GitHub is the proof of my work.<br><b>PT:</b> Certificações validam o conhecimento, mas projetos práticos provam a capacidade. Este GitHub é a prova do meu trabalho.</p>
+  <summary><b>🚀 3. Theory without Practice is Incomplete / 𝗧𝗲𝗼𝗿𝗶𝗮 𝘀𝗲𝗺 𝗣𝗿á𝘁𝗶𝗰𝗮 é 𝗜𝗻𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗮</b></summary>
+  <p>
+    <b>EN:</b> Certifications are important to validate knowledge, but true competence is proven in practice. Every concept I study is immediately applied to my projects, transforming theory into functional solutions.<br>
+    <b>PT:</b> Certificações são importantes para validar o conhecimento, mas a verdadeira competência é provada na prática. Cada conceito que estudo é imediatamente aplicado nos meus projetos, transformando teoria em soluções funcionais.
+  </p>
 </details>
 
 ---
