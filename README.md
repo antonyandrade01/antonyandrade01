@@ -96,6 +96,16 @@
 <img src="https://skillicons.dev/icons?i=githubactions,docker,aws,kubernetes" />
 <br clear="right"/>
 
+#### **Step 3.5: AI-Powered Development Workflow / Workflow de Desenvolvimento com IA**
+<a href="https://github.com/antonyandrade01/clinica-evolution-source/tree/main/.github/workflows"> 
+  <img align="right" width="400" src="https://github.com/antonyandrade01/.github/blob/main/assets/AI-Code-Review.png?raw=true" alt="AI-Powered Workflow">
+</a>
+<p><b>EN:</b> To enhance code quality and accelerate the development cycle, I've integrated Google's Gemini AI directly into the repository via <b>GitHub Actions</b>. This system acts as a virtual senior engineer, providing automated code reviews on Pull Requests, security analysis on pushes to `main`, and on-demand assistance via comments.</p>
+<p><b>PT:</b> Para elevar a qualidade do código e acelerar o ciclo de desenvolvimento, integrei a IA Gemini do Google diretamente no repositório via <b>GitHub Actions</b>. Este sistema atua como um engenheiro sênior virtual, fornecendo revisões de código automatizadas em Pull Requests, análises de segurança em pushes para a `main` e assistência sob demanda via comentários.</p>
+<b>Tech Stack:</b><br>
+<img src="https://skillicons.dev/icons?i=githubactions,googlecloud,bash" />
+<br clear="right"/>
+
 ---
 
 ### 🛠️ Productivity & Automation Tools / Ferramentas de Produtividade e Automação
