@@ -87,7 +87,7 @@
 <br clear="right"/>
 
 #### **Step 3: CI/CD & Full Automation / CI/CD e Automação Completa**
-<a href="https://github.com/antonyandrade01/clinica-evolution-source/tree/main/.github/workflows">
+<a href="https://github.com/antonyandrade01/clinica-evolution-architecture">
   <img align="right" width="400" src="https://github.com/antonyandrade01/.github/blob/main/assets/CI-CD-Pipeline.png?raw=true" alt="CI/CD Pipeline">
 </a>
 <p><b>EN (Next Step):</b> The final piece of the puzzle. Implementation of a complete CI/CD pipeline using <b>GitHub Actions</b>. The goal is to automate the entire workflow: from a `git push` to building the Docker image, pushing it to a registry (<b>ECR</b>), and automatically deploying it to the cloud infrastructure built in Step 2.</p>
@@ -97,7 +97,7 @@
 <br clear="right"/>
 
 #### **Step 3.5: AI-Powered Development Workflow / Workflow de Desenvolvimento com IA**
-<a href="https://github.com/antonyandrade01/clinica-evolution-source/tree/main/.github/workflows"> 
+<a href="https://github.com/antonyandrade01/clinica-evolution-architecture"> 
   <img align="right" width="400" src="https://github.com/antonyandrade01/.github/blob/main/assets/AI-Code-Review.png?raw=true" alt="AI-Powered Workflow">
 </a>
 <p><b>EN:</b> To enhance code quality and accelerate the development cycle, I've integrated Google's Gemini AI directly into the repository via <b>GitHub Actions</b>. This system acts as a virtual senior engineer, providing automated code reviews on Pull Requests, security analysis on pushes to `main`, and on-demand assistance via comments.</p>
