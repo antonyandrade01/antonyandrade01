@@ -1,14 +1,12 @@
-<!-- Personalized Banner Block -->
 <p align="center">
-  <img src="https://github.com/antonyandrade01/.github/blob/main/assets/BannerPerfil.png?raw=true" alt="Antony Andrade - Cloud & DevOps Engineer Banner">
+  <img src="https://github.com/antonyandrade01/.github/blob/main/assets/BannerPerfil.png?raw=true" alt="Antony Andrade - Full-Stack & Cloud Engineer Banner">
 </p>
 
-<!-- Introduction Block -->
 <div align="center">
 
 ### Hello there, I'm Antony! 👋
 
-<p>I'm a tech professional building the bridge between solid infrastructure and agile software delivery. With a strong background in systems and quality assurance, I am now on a focused journey to become a <b>Cloud & DevOps Engineer</b>.<br>My mission is to architect and automate robust, scalable, and cost-efficient cloud environments.</p>
+<p>I'm a developer focused on creating solutions that actually work, bridging the gap between building a system and how it performs in production. I currently work as a <b>Full-Stack & Delphi Developer</b>, building custom web projects and robust systems. I am also expanding my expertise into <b>Go-To-Market (GTM) Engineering</b>, connecting technical infrastructure directly to business results.</p>
 
 <p>
   <a href="https://www.linkedin.com/in/antony-andrade-a04b92b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -16,13 +14,12 @@
 </p>
 </div>
 
-<!-- Collapsible Portuguese Version -->
 <details align="center">
   <summary><b>🇧🇷 Clique aqui para ver a versão em Português</b></summary>
   
   ### Olá, eu sou o Antony! 👋
   
-  <p>Sou um profissional de tecnologia construindo a ponte entre infraestruturas sólidas e a entrega ágil de software. Com uma forte bagagem em sistemas e quality assurance, agora estou em uma jornada focada para me tornar um <b>Cloud & DevOps Engineer</b>.<br>Minha missão é arquitetar e automatizar ambientes na nuvem que sejam robustos, escaláveis e com custo-eficiente.</p>
+  <p>Sou um desenvolvedor focado em criar soluções que realmente funcionam, unindo a visão de quem constrói o sistema com a experiência de quem sabe como ele se comporta em produção. Atualmente atuo como <b>Desenvolvedor Delphi e Full-Stack</b>, entregando projetos web sob medida. Também estou expandindo minha atuação para <b>Go-To-Market (GTM) Engineering</b>, conectando a infraestrutura técnica diretamente aos resultados de negócio e captação de clientes.</p>
 </details>
 
 ---
@@ -30,107 +27,105 @@
 ### 💡 My Engineering Philosophy / Minha Filosofia de Engenharia
 
 <div align="center">
-<p><b>EN:</b> Three core principles guide my work.<br><b>PT:</b> Três princípios fundamentais guiam meu trabalho.</p>
+<p><b>EN:</b> Three core principles guide my day-to-day work.<br><b>PT:</b> Três princípios guiam meu dia a dia.</p>
 </div>
 
 <details>
-  <summary><b>⚙️ 1. Total Automation / Automação Total</b></summary>
+  <summary><b>⚙️ 1. The code must solve the problem / O código tem que resolver o problema</b></summary>
   <p>
-    <b>EN:</b> If a task is repetitive, it must be automated. Time is valuable.<br>
-    <b>PT:</b> Se uma tarefa é repetitiva, ela deve ser automatizada. O tempo é valioso.
+    <b>EN:</b> More than using the latest tech, the goal is to deliver a fast, secure system that brings real results. Less talk, more execution.<br>
+    <b>PT:</b> Mais do que usar a tecnologia da moda, o negócio é entregar um sistema rápido, seguro e que traga resultado real. Menos enrolação, mais entrega.
   </p>
 </details>
 
 <details>
-  <summary><b>📜 2. "Everything as Code" / Tudo como Código</b></summary>
+  <summary><b>🧩 2. Understand the whole machine / Entender a engrenagem toda</b></summary>
   <p>
-    <b>EN:</b> Infrastructure and pipelines must be versioned and testable. I use tools like Terraform and Docker to ensure every environment is consistent, secure, and recreatable at any moment.<br>
-    <b>PT:</b> Infraestrutura e pipelines devem ser versionados e testáveis. Utilizo ferramentas como Terraform e Docker para garantir que cada ambiente seja consistente, seguro e recriável a qualquer momento.
+    <b>EN:</b> From a user-friendly front-end to a well-structured back-end, ensuring the infrastructure can handle the load to keep everything running smoothly and automated.<br>
+    <b>PT:</b> Do front-end até o back-end bem estruturado, garantindo que a infraestrutura aguente o tranco para manter tudo no ar de forma automatizada e sem dar dor de cabeça.
   </p>
 </details>
 
 <details>
-  <summary><b>🚀 3. Theory without Practice is Incomplete / Teoria sem Prática é Incompleta</b></summary>
+  <summary><b>🚀 3. Practice is the rule / A prática é o que manda</b></summary>
   <p>
-    <b>EN:</b> Certifications are important to validate knowledge, but true competence is proven in practice. Every concept I study is immediately applied to my projects, transforming theory into functional solutions.<br>
-    <b>PT:</b> Certificações são importantes para validar o conhecimento, mas a verdadeira competência é provada na prática. Cada conceito que estudo é imediatamente aplicado nos meus projetos, transformando teoria em soluções funcionais.
+    <b>EN:</b> I don't just stay on paper. Whether in the web projects I develop, my homelab automations, or hardware integrations: the rule is to build it and see it working.<br>
+    <b>PT:</b> Não fico só no papel. Seja nos projetos web que desenvolvo, nas automações do meu homelab ou mexendo com hardware, a regra é aplicar e ver a coisa funcionando.
   </p>
 </details>
 
 ---
 
-### 🗺️ My Cloud & DevOps Learning Roadmap / Meu Roteiro de Aprendizagem
+### 💻 Full-Stack & Web Solutions / Projetos Web sob Medida
 
 <div align="center">
-<p><b>EN:</b> This is the hands-on demonstration of my journey. Each project represents a deliberate step in mastering the skills required to be a complete Cloud & DevOps Engineer.<br><b>PT:</b> Esta é a demonstração prática da minha jornada. Cada projeto representa um passo deliberado para dominar as habilidades necessárias para ser um Engenheiro de Nuvem e DevOps completo.</p>
+<p><b>EN:</b> Projects where I act from end-to-end: structuring the database, building APIs, developing the front-end, and configuring the infrastructure.<br><b>PT:</b> Projetos onde atuo de ponta a ponta: estruturando banco de dados, APIs, front-end e configurando a infraestrutura.</p>
 </div>
 
-
-#### **Step 1: Professional Docker Architecture / Arquitetura Docker Profissional**
+#### **Clínica Evolution - Full-Stack Clinic Management System**
 <a href="https://github.com/antonyandrade01/clinica-evolution-architecture">
   <img align="right" width="400" src="https://github.com/antonyandrade01/clinica-evolution-architecture/blob/main/docs/images/arquitetura.png?raw=true" alt="Docker Architecture">
 </a>
-<p><b>EN:</b> The foundation. I architected and containerized a full-stack web application using <b>Docker Compose</b>. This project demonstrates professional DevOps patterns, including <b>multi-stage builds</b> for optimized images, enhanced security with a <b>non-root user</b>, automated backups, and robust initialization via an <b>entrypoint script</b>.</p>
-<p><b>PT:</b> A fundação. Arquiteturei e containerizei uma aplicação web full-stack usando <b>Docker Compose</b>. Este projeto demonstra padrões de DevOps profissionais, incluindo <b>multi-stage builds</b> para imagens otimizadas, segurança aprimorada com usuário <b>não-root</b>, backups automatizados e inicialização robusta via <b>entrypoint script</b>.</p>
+<p><b>EN:</b> A complete web system for clinic management. Built with Python/Flask, decoupled services, and fully containerized with Docker Compose. Demonstrates the bridge between software development and professional DevOps patterns.</p>
+<p><b>PT:</b> Um sistema web completo para gestão de clínicas. Construído com Python/Flask, serviços desacoplados e totalmente containerizado. Demonstra a ponte entre o desenvolvimento do software e a arquitetura de entrega.</p>
 <b>Tech Stack:</b><br>
-<img src="https://skillicons.dev/icons?i=docker,python,flask,mysql,nginx,redis" />
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,nginx,docker,redis" />
 <br clear="right"/>
 
-#### **Step 2: AWS Infrastructure as Code (IaC) / Infraestrutura como Código na AWS**
-<a href="https://github.com/antonyandrade01/clinica-evolution-aws-terraform-deployment">
-  <img align="right" width="400" src="https://github.com/antonyandrade01/.github/blob/main/assets/CloudArchitectureBlueprint.png?raw=true" alt="AWS Architecture">
-</a>
-<p><b>EN (In Progress):</b> This is where the cloud comes in. An Infrastructure as Code (IaC) project to provision the application's entire environment on AWS in a fully automated way. Using <b>Terraform</b>, I'm building a custom network (VPC), deploying managed services like <b>RDS</b> and <b>ElastiCache</b>, and setting up secure access with IAM.</p>
-<p><b>PT (Em Andamento):</b> É aqui que a nuvem entra. Um projeto de Infraestrutura como Código (IaC) para provisionar todo o ambiente da aplicação na AWS de forma 100% automatizada. Usando <b>Terraform</b>, estou construindo uma rede customizada (VPC), implantando serviços gerenciados como <b>RDS</b> e <b>ElastiCache</b>, e configurando o acesso seguro com IAM.</p>
+#### **🚧 Coming Soon: Automotive Showcase Platform / Em Breve: Vitrine Automotiva**
+<p><b>EN:</b> An SEO-optimized catalog for a car dealership with advanced filtering and a custom admin dashboard to manage inventory.<br><b>PT:</b> Um catálogo otimizado para SEO com filtros avançados e painel administrativo sob medida para gestão de estoque de uma revenda de carros.</p>
 <b>Tech Stack:</b><br>
-<img src="https://skillicons.dev/icons?i=aws,terraform,ec2,rds,vpc,s3" />
-<br clear="right"/>
-
-#### **Step 3: CI/CD & Full Automation / CI/CD e Automação Completa**
-<a href="https://github.com/antonyandrade01/clinica-evolution-architecture">
-  <img align="right" width="400" src="https://github.com/antonyandrade01/.github/blob/main/assets/CI-CD-Pipeline.png?raw=true" alt="CI/CD Pipeline">
-</a>
-<p><b>EN (Next Step):</b> The final piece of the puzzle. Implementation of a complete CI/CD pipeline using <b>GitHub Actions</b>. The goal is to automate the entire workflow: from a `git push` to building the Docker image, pushing it to a registry (<b>ECR</b>), and automatically deploying it to the cloud infrastructure built in Step 2.</p>
-<p><b>PT (Próximo Passo):</b> A peça final do quebra-cabeça. Implementação de um pipeline de CI/CD completo com <b>GitHub Actions</b>. O objetivo é automatizar todo o fluxo: do `git push` à construção da imagem Docker, envio para um registro (<b>ECR</b>) e deploy automático na infraestrutura da nuvem construída no Passo 2.</p>
-<b>Tech Stack:</b><br>
-<img src="https://skillicons.dev/icons?i=githubactions,docker,aws,kubernetes" />
-<br clear="right"/>
-
-#### **Step 3.5: AI-Powered Development Workflow / Workflow de Desenvolvimento com IA**
-<a href="https://github.com/antonyandrade01/clinica-evolution-architecture"> 
-  <img align="right" width="400" src="https://github.com/antonyandrade01/.github/blob/main/assets/AI-Code-Review.png?raw=true" alt="AI-Powered Workflow">
-</a>
-<p><b>EN:</b> To enhance code quality and accelerate the development cycle, I've integrated Google's Gemini AI directly into the repository via <b>GitHub Actions</b>. This system acts as a virtual senior engineer, providing automated code reviews on Pull Requests, security analysis on pushes to `main`, and on-demand assistance via comments.</p>
-<p><b>PT:</b> Para elevar a qualidade do código e acelerar o ciclo de desenvolvimento, integrei a IA Gemini do Google diretamente no repositório via <b>GitHub Actions</b>. Este sistema atua como um engenheiro sênior virtual, fornecendo revisões de código automatizadas em Pull Requests, análises de segurança em pushes para a `main` e assistência sob demanda via comentários.</p>
-<b>Tech Stack:</b><br>
-<img src="https://skillicons.dev/icons?i=githubactions,googlecloud,bash" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,python,postgres,docker" />
 <br clear="right"/>
 
 ---
 
-### 🛠️ Productivity & Automation Tools / Ferramentas de Produtividade e Automação
+### ☁️ Cloud, DevOps & Infrastructure / Infraestrutura e Nuvem
 
 <div align="center">
-<p><b>EN:</b> I believe in building tools to solve my own problems. These are some of the open-source utilities I created to improve my workflow.<br><b>PT:</b> Eu acredito em construir ferramentas para resolver meus próprios problemas. Estas são algumas das utilidades open-source que criei para melhorar meu fluxo de trabalho.</p>
+<p><b>EN:</b> My playground for ensuring systems are scalable, secure, and fully automated.<br><b>PT:</b> Meu campo de atuação para garantir que os sistemas sejam escaláveis, seguros e automatizados.</p>
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <h4 align="center"><a href="https://github.com/antonyandrade01/clinica-evolution-aws-terraform-deployment">AWS Infrastructure as Code (IaC)</a></h4>
+  <p><b>EN:</b> Provisioning a complete cloud environment on AWS using Terraform. Custom VPCs, managed RDS, and secure IAM access.<br><br><b>PT:</b> Provisionamento de um ambiente completo na AWS via Terraform. VPCs customizadas, RDS gerenciado e acesso seguro via IAM.</p>
+  <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=aws,terraform,ec2,rds" /></p>
+</td>
+<td width="50%" valign="top">
+  <h4 align="center"><a href="https://github.com/antonyandrade01/clinica-evolution-architecture">AI-Powered CI/CD Pipeline</a></h4>
+  <p><b>EN:</b> Automated GitHub Actions workflows integrating Google's Gemini AI for code reviews, alongside Docker image building and ECR pushing.<br><br><b>PT:</b> Workflows no GitHub Actions integrando a IA Gemini do Google para code reviews automáticos, junto ao build de imagens Docker.</p>
+  <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=githubactions,docker,googlecloud,bash" /></p>
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Productivity & Automation Tools / Ferramentas de Automação
+
+<div align="center">
+<p><b>EN:</b> I believe in building tools to solve my own problems. These are some of the open-source utilities I created.<br><b>PT:</b> Eu acredito em construir ferramentas para resolver meus próprios problemas. Algumas utilidades open-source que criei.</p>
 </div>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
   <h4 align="center"><a href="https://github.com/antonyandrade01/training-automation-suite">Training Automation Suite</a></h4>
-  <p><b>EN:</b> A Python CLI to automate the creation of training PowerPoints and bulk-update business tickets via API, turning hours of manual work into minutes.<br><br><b>PT:</b> Uma CLI em Python para automatizar a criação de PowerPoints de treinamento e a atualização em massa de tickets de negócio via API, transformando horas de trabalho manual em minutos.</p>
+  <p><b>EN:</b> A Python CLI to automate the creation of training PowerPoints and bulk-update business tickets via API.<br><br><b>PT:</b> Uma CLI em Python para automatizar a criação de PowerPoints de treinamento e a atualização em massa de tickets de negócio.</p>
   <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=python,mysql,powershell" /></p>
 </td>
 <td width="50%" valign="top">
   <h4 align="center"><a href="https://github.com/antonyandrade01/project-context-generator">Project Context Generator</a></h4>
-  <p><b>EN:</b> A Python script that bundles an entire project's source code into a single, clean text file, perfect for providing complete context to AI assistants for code reviews.<br><br><b>PT:</b> Um script Python que agrupa todo o código-fonte de um projeto em um único arquivo de texto, perfeito para fornecer contexto completo a assistentes de IA para code reviews.</p>
+  <p><b>EN:</b> A Python script that bundles an entire project's source code into a clean text file for AI code reviews.<br><br><b>PT:</b> Um script Python que agrupa todo o código-fonte de um projeto em um único arquivo de texto para code reviews com IA.</p>
   <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=python,bash" /></p>
 </td>
 </tr>
 </table>
 
 ---
-<h3 align="center">📊 My GitHub Activity & Trophies / Minhas Atividades e Troféus no GitHub 📊</h3>
+<h3 align="center">📊 My GitHub Activity & Trophies / Minhas Atividades no GitHub 📊</h3>
 
 <div align="center">
   <picture>
@@ -168,7 +163,7 @@
       
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,nginx,githubactions,linux,bash,powershell,git,python,flask,js,mysql,redis&perline=20" />
+    <img src="https://skillicons.dev/icons?i=python,flask,nextjs,react,js,mysql,postgres,redis,aws,docker,terraform,linux,bash,nginx,githubactions,git&perline=20" />
   </a>
 </div>
 
@@ -181,4 +176,4 @@
   <a href="mailto:antonymsandrade@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://discordapp.com/users/TonyToninho" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://www.instagram.com/i.am.toninho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    
+</p>
