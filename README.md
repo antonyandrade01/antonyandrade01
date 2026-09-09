@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://github.com/antonyandrade01/.github/blob/main/assets/BannerPerfil.png?raw=true" alt="Antony Andrade - Full-Stack & Cloud Engineer Banner">
+  <img src="https://github.com/antonyandrade01/.github/blob/main/assets/BannerPerfil.png?raw=true" alt="Antony Andrade - Backend, Infrastructure & GTM Engineering Banner">
 </p>
 
 <div align="center">
 
 ### Hello there, I'm Antony! 👋
 
-<p>I'm a developer focused on creating solutions that actually work, bridging the gap between building a system and how it performs in production. I currently work as a <b>Full-Stack & Delphi Developer</b>, building custom web projects and robust systems. I am also expanding my expertise into <b>Go-To-Market (GTM) Engineering</b>, connecting technical infrastructure directly to business results.</p>
+<p>I am a backend and infrastructure engineer with 5+ years of hands-on experience building systems that cannot fail. My background is rooted in critical healthcare and clinical software (LIS), where zero downtime and data integrity are mandatory. Today, I specialize in <b>Python (FastAPI)</b>, <b>PostgreSQL</b>, <b>Redis concurrency control</b>, <b>Docker environments</b>, and <b>Go-To-Market (GTM) Engineering</b>: building the data plumbing and automation that connect backend systems to business revenue.</p>
 
 <p>
-  <a href="https://www.linkedin.com/in/antony-andrade-a04b92b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/antonyandrade01/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:antonymsandrade@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=antonyandrade01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 </div>
@@ -19,113 +20,102 @@
   
   ### Olá, eu sou o Antony! 👋
   
-  <p>Sou um desenvolvedor focado em criar soluções que realmente funcionam, unindo a visão de quem constrói o sistema com a experiência de quem sabe como ele se comporta em produção. Atualmente atuo como <b>Desenvolvedor Delphi e Full-Stack</b>, entregando projetos web sob medida. Também estou expandindo minha atuação para <b>Go-To-Market (GTM) Engineering</b>, conectando a infraestrutura técnica diretamente aos resultados de negócio e captação de clientes.</p>
+  <p>Sou engenheiro de backend e infraestrutura com mais de 5 anos de experiência prática construindo sistemas que não podem parar. Minha base foi forjada em software laboratorial crítico (LIS), onde estabilidade e integridade de dados são inegociáveis. Hoje atuo focado em <b>Python (FastAPI)</b>, <b>PostgreSQL</b>, <b>controle de concorrência com Redis</b>, <b>ambientes Docker</b> e <b>GTM Engineering (Go-To-Market)</b>: a engenharia de dados, webhooks e automações que conectam o código diretamente à receita da empresa.</p>
 </details>
 
 ---
 
-### 💡 My Engineering Philosophy / Minha Filosofia de Engenharia
+### 💡 Engineering Principles / Princípios de Engenharia
 
 <div align="center">
-<p><b>EN:</b> Three core principles guide my day-to-day work.<br><b>PT:</b> Três princípios guiam meu dia a dia.</p>
+<p><b>EN:</b> Pragmatic engineering guidelines forged in production environments.<br><b>PT:</b> Diretrizes pragmáticas aprendidas no dia a dia da produção.</p>
 </div>
 
 <details>
-  <summary><b>⚙️ 1. The code must solve the problem / O código tem que resolver o problema</b></summary>
+  <summary><b>⚙️ 1. The code must solve real business problems / O código tem que resolver o problema real</b></summary>
   <p>
-    <b>EN:</b> More than using the latest tech, the goal is to deliver a fast, secure system that brings real results. Less talk, more execution.<br>
-    <b>PT:</b> Mais do que usar a tecnologia da moda, o negócio é entregar um sistema rápido, seguro e que traga resultado real. Menos enrolação, mais entrega.
+    <b>EN:</b> Technology choices are evaluated on production reliability and business outcome, not hype. Fast APIs, safe transactions, and zero data loss on Monday mornings.<br>
+    <b>PT:</b> Escolha de tecnologia se mede por estabilidade em produção e resultado no negócio, não por moda. APIs velozes, transações seguras e zero perda de dados na segunda-feira de manhã.
   </p>
 </details>
 
 <details>
-  <summary><b>🧩 2. Understand the whole machine / Entender a engrenagem toda</b></summary>
+  <summary><b>🧩 2. Master the whole machine / Dominar a engrenagem completa</b></summary>
   <p>
-    <b>EN:</b> From a user-friendly front-end to a well-structured back-end, ensuring the infrastructure can handle the load to keep everything running smoothly and automated.<br>
-    <b>PT:</b> Do front-end até o back-end bem estruturado, garantindo que a infraestrutura aguente o tranco para manter tudo no ar de forma automatizada e sem dar dor de cabeça.
+    <b>EN:</b> From relational schema modeling and concurrency locks to container routing, log analysis, and system failover.<br>
+    <b>PT:</b> Da modelagem do banco relacional e locks de concorrência até roteamento de containers, análise minuciosa de logs e recuperação de desastres.
   </p>
 </details>
 
 <details>
-  <summary><b>🚀 3. Practice is the rule / A prática é o que manda</b></summary>
+  <summary><b>🚀 3. Grounded in practice / Foco na prática</b></summary>
   <p>
-    <b>EN:</b> I don't just stay on paper. Whether in the web projects I develop, my homelab automations, or hardware integrations: the rule is to build it and see it working.<br>
-    <b>PT:</b> Não fico só no papel. Seja nos projetos web que desenvolvo, nas automações do meu homelab ou mexendo com hardware, a regra é aplicar e ver a coisa funcionando.
+    <b>EN:</b> Working software running in production beats theoretical architecture diagrams. Build it, monitor it, tune it, and keep it fast.<br>
+    <b>PT:</b> Software rodando em produção vale mais do que diagrama teórico. Construir, monitorar, otimizar e manter tudo rápido e estável.
   </p>
 </details>
 
 ---
 
-### 💻 Full-Stack & Web Solutions / Projetos Web sob Medida
+### 💻 Featured Projects & Architecture / Projetos em Destaque e Arquitetura
 
-<div align="center">
-<p><b>EN:</b> Projects where I act from end-to-end: structuring the database, building APIs, developing the front-end, and configuring the infrastructure.<br><b>PT:</b> Projetos onde atuo de ponta a ponta: estruturando banco de dados, APIs, front-end e configurando a infraestrutura.</p>
-</div>
-
-#### **Clínica Evolution - Full-Stack Clinic Management System**
-<a href="https://github.com/antonyandrade01/clinica-evolution-architecture">
-  <img align="right" width="400" src="https://github.com/antonyandrade01/clinica-evolution-architecture/blob/main/docs/images/arquitetura.png?raw=true" alt="Docker Architecture">
-</a>
-<p><b>EN:</b> A complete web system for clinic management. Built with Python/Flask, decoupled services, and fully containerized with Docker Compose. Demonstrates the bridge between software development and professional DevOps patterns.</p>
-<p><b>PT:</b> Um sistema web completo para gestão de clínicas. Construído com Python/Flask, serviços desacoplados e totalmente containerizado. Demonstra a ponte entre o desenvolvimento do software e a arquitetura de entrega.</p>
+#### **High-Performance Omnichannel CRM & GTM Engine (Stealth Startup)**
+<p><b>EN:</b> Multi-tenant sales and messaging infrastructure designed for high throughput. Built with an async Python (FastAPI) core, PostgreSQL with Row-Level Security (RLS), distributed atomic locks via Redis (`SETNX`) to handle race conditions in concurrent webhooks, and background worker queues with RabbitMQ and Celery. Features an identity reconciliation algorithm for paid traffic (Meta Ads) that maps anonymous click IDs (LIDs) to verified contact records.</p>
+<p><b>PT:</b> Infraestrutura de mensageria e vendas multi-tenant projetada para alto volume. Desenvolvida com backend assíncrono em Python (FastAPI), PostgreSQL com Row-Level Security (RLS), travas atômicas distribuídas no Redis (`SETNX`) para evitar condições de corrida em webhooks simultâneos, e filas assíncronas com RabbitMQ e Celery. Inclui motor de reconciliação de identidades para tráfego pago (Meta Ads) que correlaciona identificadores anônimos (LIDs) a contatos reais.</p>
 <b>Tech Stack:</b><br>
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,nginx,docker,redis" />
-<br clear="right"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,redis,rabbitmq,docker,linux" />
+<br clear="all"/>
 
-#### **🚧 Coming Soon: Automotive Showcase Platform / Em Breve: Vitrine Automotiva**
-<p><b>EN:</b> An SEO-optimized catalog for a car dealership with advanced filtering and a custom admin dashboard to manage inventory.<br><b>PT:</b> Um catálogo otimizado para SEO com filtros avançados e painel administrativo sob medida para gestão de estoque de uma revenda de carros.</p>
+<br>
+
+#### **Self-Hosted Production Infrastructure & Homelab Operations**
+<p><b>EN:</b> Production-ready self-hosted server environments running on Debian/Ubuntu and Alpine. Hardened container orchestration using Docker Compose, reverse proxy setups with Nginx and Traefik, private S3-compatible object storage (SeaweedFS / MinIO), and automated backup routines with retention policies.</p>
+<p><b>PT:</b> Ambientes de servidores self-hosted rodando em Debian/Ubuntu e Alpine. Orquestração segura de containers com Docker Compose, proxies reversos com Nginx e Traefik, armazenamento privado S3 (SeaweedFS / MinIO) e rotinas automáticas de backup e retenção.</p>
 <b>Tech Stack:</b><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,python,postgres,docker" />
-<br clear="right"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,bash" />
+<br clear="all"/>
 
 ---
 
-### ☁️ Cloud, DevOps & Infrastructure / Infraestrutura e Nuvem
-
-<div align="center">
-<p><b>EN:</b> My playground for ensuring systems are scalable, secure, and fully automated.<br><b>PT:</b> Meu campo de atuação para garantir que os sistemas sejam escaláveis, seguros e automatizados.</p>
-</div>
+### ☁️ Cloud, DevOps & IaC / Nuvem, DevOps e Infraestrutura
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-  <h4 align="center"><a href="https://github.com/antonyandrade01/clinica-evolution-aws-terraform-deployment">AWS Infrastructure as Code (IaC)</a></h4>
-  <p><b>EN:</b> Provisioning a complete cloud environment on AWS using Terraform. Custom VPCs, managed RDS, and secure IAM access.<br><br><b>PT:</b> Provisionamento de um ambiente completo na AWS via Terraform. VPCs customizadas, RDS gerenciado e acesso seguro via IAM.</p>
+  <h4 align="center"><a href="https://github.com/antonyandrade01/clinica-evolution-aws-terraform-deployment">AWS Infrastructure as Code (Terraform)</a></h4>
+  <p><b>EN:</b> Provisioning automated cloud infrastructure on AWS using Terraform: custom VPCs, subnets, EC2 instances, secure IAM policies, and managed RDS databases.<br><br><b>PT:</b> Provisionamento automatizado de infraestrutura na AWS via Terraform: VPCs customizadas, subnets, instâncias EC2, políticas IAM e bancos gerenciados no RDS.</p>
   <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=aws,terraform,ec2,rds" /></p>
 </td>
 <td width="50%" valign="top">
-  <h4 align="center"><a href="https://github.com/antonyandrade01/clinica-evolution-architecture">AI-Powered CI/CD Pipeline</a></h4>
-  <p><b>EN:</b> Automated GitHub Actions workflows integrating Google's Gemini AI for code reviews, alongside Docker image building and ECR pushing.<br><br><b>PT:</b> Workflows no GitHub Actions integrando a IA Gemini do Google para code reviews automáticos, junto ao build de imagens Docker.</p>
-  <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=githubactions,docker,googlecloud,bash" /></p>
+  <h4 align="center"><a href="https://github.com/antonyandrade01/clinica-evolution-architecture">CI/CD & Container Hardening</a></h4>
+  <p><b>EN:</b> Automated GitHub Actions pipelines for multi-stage Docker builds, non-root container security checks, static analysis, and automated deployments.<br><br><b>PT:</b> Pipelines automatizados no GitHub Actions para builds Docker multi-stage, checagens de segurança com containers non-root, análise estática e deploy automático.</p>
+  <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=githubactions,docker,bash,linux" /></p>
 </td>
 </tr>
 </table>
 
 ---
 
-### 🛠️ Productivity & Automation Tools / Ferramentas de Automação
-
-<div align="center">
-<p><b>EN:</b> I believe in building tools to solve my own problems. These are some of the open-source utilities I created.<br><b>PT:</b> Eu acredito em construir ferramentas para resolver meus próprios problemas. Algumas utilidades open-source que criei.</p>
-</div>
+### 🛠️ Developer Tooling & Automation / Ferramentas e Automações
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
   <h4 align="center"><a href="https://github.com/antonyandrade01/training-automation-suite">Training Automation Suite</a></h4>
-  <p><b>EN:</b> A Python CLI to automate the creation of training PowerPoints and bulk-update business tickets via API.<br><br><b>PT:</b> Uma CLI em Python para automatizar a criação de PowerPoints de treinamento e a atualização em massa de tickets de negócio.</p>
+  <p><b>EN:</b> Python automation tooling for generating technical presentation assets and batch-updating support tickets via API.<br><br><b>PT:</b> Utilitário em Python para geração automatizada de materiais técnicos e atualização em lote de chamados via API.</p>
   <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=python,mysql,powershell" /></p>
 </td>
 <td width="50%" valign="top">
   <h4 align="center"><a href="https://github.com/antonyandrade01/project-context-generator">Project Context Generator</a></h4>
-  <p><b>EN:</b> A Python script that bundles an entire project's source code into a clean text file for AI code reviews.<br><br><b>PT:</b> Um script Python que agrupa todo o código-fonte de um projeto em um único arquivo de texto para code reviews com IA.</p>
+  <p><b>EN:</b> CLI utility in Python that bundles codebase trees and file contexts into structured formats for automated code reviews and audits.<br><br><b>PT:</b> Utilitário CLI em Python que consolida estruturas de código e arquivos de contexto para auditorias e revisões de código.</p>
   <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=python,bash" /></p>
 </td>
 </tr>
 </table>
 
 ---
-<h3 align="center">📊 My GitHub Activity & Trophies / Minhas Atividades no GitHub 📊</h3>
+
+<h3 align="center">📊 GitHub Activity & Skills / Atividade e Tecnologias 📊</h3>
 
 <div align="center">
   <picture>
@@ -163,17 +153,16 @@
       
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,nextjs,react,js,mysql,postgres,redis,aws,docker,terraform,linux,bash,nginx,githubactions,git&perline=20" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,redis,rabbitmq,docker,linux,bash,nginx,aws,terraform,githubactions,git&perline=14" />
   </a>
 </div>
 
-    
 ---
+
 <h3 align="center">📫 Connect with Me / Conecte-se Comigo</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antony-andrade-a04b92b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/antonyandrade01/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:antonymsandrade@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://discordapp.com/users/TonyToninho" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://www.instagram.com/i.am.toninho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
