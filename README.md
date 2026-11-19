@@ -63,9 +63,9 @@
 
 ### Projects / Projetos
 
-> **EN:** Source code for the products below is private. Each title links to a public showcase repository with architecture diagrams, technical decisions, and sanitized screenshots. Live demonstrations are available on request.
+> **EN:** Source code for the products below is private. Each title links to a public showcase repository with architecture diagrams and technical decisions. Live demonstrations are available on request.
 >
-> **PT:** O código dos produtos abaixo é privado. Cada título aponta para uma vitrine pública com diagramas de arquitetura, decisões técnicas e telas com dados de teste. Demonstração ao vivo sob pedido.
+> **PT:** O código dos produtos abaixo é privado. Cada título aponta para uma vitrine pública com diagramas de arquitetura e decisões técnicas. Demonstração ao vivo sob pedido.
 
 #### **[Skorp CRM](https://github.com/antonyandrade01/skorp-crm) (Featured / Destaque)**
 <p><b>EN:</b> Multi-tenant omnichannel CRM and sales pipeline in beta production since August 2026. Running 13 connected channels (WhatsApp via Evolution API and Cloud API, Instagram Direct, website widget), ~3,000 contacts, and 71,000 messages over 30 days (~2,400/day). Built with Python 3.14, FastAPI, PostgreSQL 18 (RLS, 100 Alembic migrations), Valkey 9, RabbitMQ 4, Celery 5.6, SeaweedFS (S3), and Next.js 16 / React 19. Backed by 102 Pytest files on the backend and 17 frontend unit suites, plus hourly encrypted backups and automated weekly restore tests. Expo mobile app, Google Meet extension, Telegram, and VoIP are in testing.</p>
@@ -80,7 +80,7 @@
 <tr>
 <td width="50%" valign="top">
   <h4 align="center"><a href="https://github.com/antonyandrade01/skorp-fit">Skorp Fit</a></h4>
-  <p><b>EN:</b> Offline-first workout and GPS cardio PWA in production (9 users, 220 logged workouts). Single TypeScript codebase on Node 24 (native type stripping) + Hono 4.7 + React 19 + PostgreSQL JSONB + IndexedDB, with Hevy/Strava import and a separate Python + Blender 4.2 headless pipeline for 320 CC0 3D exercise animations.<br><br><b>PT:</b> PWA offline-first de treinos e cardio por GPS em produção (9 usuários, 220 treinos registrados). Base única em TypeScript no Node 24 (type stripping nativo), Hono 4.7, React 19, PostgreSQL com JSONB e IndexedDB, importação Hevy/Strava e pipeline separado em Python + Blender 4.2 headless para 320 animações 3D CC0.</p>
+  <p><b>EN:</b> Offline-first workout and GPS cardio PWA in production (9 users, 220 logged workouts). Single TypeScript codebase on Node 24 (native type stripping) + Hono 4.7 + React 19 + PostgreSQL JSONB + IndexedDB, with Hevy import and a separate Python + Blender 4.2 headless pipeline for 320 CC0 3D exercise animations.<br><br><b>PT:</b> PWA offline-first de treinos e cardio por GPS em produção (9 usuários, 220 treinos registrados). Base única em TypeScript no Node 24 (type stripping nativo), Hono 4.7, React 19, PostgreSQL com JSONB e IndexedDB, importação do Hevy e pipeline separado em Python + Blender 4.2 headless para 320 animações 3D CC0.</p>
   <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=ts,nodejs,react,vite,postgres,python,blender" /></p>
 </td>
 <td width="50%" valign="top">
