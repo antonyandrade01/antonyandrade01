@@ -77,16 +77,11 @@
 
 ---
 
-### ☁️ Cloud, DevOps & IaC / Nuvem, DevOps e Infraestrutura
+### ⚙️ DevOps / CI/CD
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-  <h4 align="center"><a href="https://github.com/antonyandrade01/clinica-evolution-aws-terraform-deployment">AWS Infrastructure as Code (Terraform)</a></h4>
-  <p><b>EN:</b> Provisioning automated cloud infrastructure on AWS using Terraform: custom VPCs, subnets, EC2 instances, secure IAM policies, and managed RDS databases.<br><br><b>PT:</b> Provisionamento automatizado de infraestrutura na AWS via Terraform: VPCs customizadas, subnets, instâncias EC2, políticas IAM e bancos gerenciados no RDS.</p>
-  <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=aws,terraform,ec2,rds" /></p>
-</td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
   <h4 align="center"><a href="https://github.com/antonyandrade01/clinica-evolution-architecture">CI/CD & Container Hardening</a></h4>
   <p><b>EN:</b> Automated GitHub Actions pipelines for multi-stage Docker builds, non-root container security checks, static analysis, and automated deployments.<br><br><b>PT:</b> Pipelines automatizados no GitHub Actions para builds Docker multi-stage, checagens de segurança com containers non-root, análise estática e deploy automático.</p>
   <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=githubactions,docker,bash,linux" /></p>
@@ -153,7 +148,7 @@
       
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,redis,rabbitmq,docker,linux,bash,nginx,aws,terraform,githubactions,git&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,redis,rabbitmq,docker,linux,bash,nginx,githubactions,git&perline=12" />
   </a>
 </div>
 
