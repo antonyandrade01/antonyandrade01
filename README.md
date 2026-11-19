@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/antonyandrade01/.github/blob/main/assets/BannerPerfil.png?raw=true" alt="Antony Andrade - Backend Software Engineer | Python, PostgreSQL, Integrations">
+  <img src="https://github.com/antonyandrade01/.github/blob/main/assets/BannerPerfil2026.png?raw=true" alt="Antony Andrade - Backend Software Engineer | Python, PostgreSQL, Integrations">
 </p>
 
 <div align="center">
