@@ -87,7 +87,7 @@
 <td width="50%" valign="top">
   <h4 align="center"><a href="https://github.com/antonyandrade01/skorp-clinic">Skorp Clinic</a></h4>
   <p align="center"><a href="https://evolucao.antonyandrade.com.br">evolucao.antonyandrade.com.br</a></p>
-  <p><b>EN:</b> Multi-tenant clinical progress notes service, in a pilot with health professionals. Consumes WhatsApp audio/text via RabbitMQ, transcribes locally with faster-whisper, isolates session structuring from patient history, enforces strict RLS (no DELETE for app role), and queues post-approval consolidation via SQL trigger + <code>SKIP LOCKED</code>.<br><br><b>PT:</b> Serviço multi-tenant de evoluções clínicas, em piloto com profissionais de saúde. Consome áudio/texto do WhatsApp via RabbitMQ, transcreve localmente com faster-whisper, isola o ato clínico do histórico, aplica RLS sem DELETE no papel da API e consolida após aprovação por trigger SQL + <code>SKIP LOCKED</code>.</p>
+  <p><b>EN:</b> Multi-tenant clinical progress notes service, in a pilot with health professionals. Consumes WhatsApp audio/text via RabbitMQ, transcribes locally with faster-whisper, isolates session structuring from patient history, enforces strict RLS (no DELETE for the app role), and consolidates the patient history after the clinician approves.<br><br><b>PT:</b> Serviço multi-tenant de evoluções clínicas, em piloto com profissionais de saúde. Consome áudio/texto do WhatsApp via RabbitMQ, transcreve localmente com faster-whisper, isola o ato clínico do histórico, aplica RLS sem DELETE no papel da API e consolida o histórico do paciente depois que o profissional aprova.</p>
   <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=python,fastapi,postgres,rabbitmq,docker,linux" /></p>
 </td>
 </tr>
