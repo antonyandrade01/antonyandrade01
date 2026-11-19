@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/antonyandrade01/.github/blob/main/assets/BannerPerfil2026.png?raw=true" alt="Antony Andrade - Backend Software Engineer | Python, PostgreSQL, Integrations">
+  <img src="https://github.com/antonyandrade01/.github/blob/main/assets/BannerPerfil2026.jpg?raw=true" alt="Antony Andrade - Backend Software Engineer | Python, PostgreSQL, Integrations">
 </p>
 
 <div align="center">
@@ -67,7 +67,7 @@
 >
 > **PT:** O código dos produtos abaixo é privado. Cada título aponta para uma vitrine pública com diagramas de arquitetura e decisões técnicas. Demonstração ao vivo sob pedido.
 
-#### **[Skorp CRM](https://github.com/antonyandrade01/skorp-crm) (Featured / Destaque)**
+#### **[Skorp CRM](https://github.com/antonyandrade01/skorp-crm) (Featured / Destaque)** · [skorp.com.br](https://skorp.com.br)
 <p><b>EN:</b> Multi-tenant omnichannel CRM and sales pipeline in beta production since August 2026. Running 13 connected channels (WhatsApp via Evolution API and Cloud API, Instagram Direct, website widget), ~3,000 contacts, and 71,000 messages over 30 days (~2,400/day). Built with Python 3.14, FastAPI, PostgreSQL 18 (RLS, 100 Alembic migrations), Valkey 9, RabbitMQ 4, Celery 5.6, SeaweedFS (S3), and Next.js 16 / React 19. Backed by 102 Pytest files on the backend and 17 frontend unit suites, plus hourly encrypted backups and automated weekly restore tests. Expo mobile app, Google Meet extension, Telegram, and VoIP are in testing.</p>
 <p><b>PT:</b> CRM omnichannel multi-tenant em produção beta desde agosto de 2026. Opera 13 canais conectados (WhatsApp via Evolution API e Cloud API, Instagram Direct e widget de site), cerca de 3 mil contatos e 71 mil mensagens em 30 dias (~2.400/dia). Construído com Python 3.14, FastAPI, PostgreSQL 18 (RLS, 100 migrations Alembic), Valkey 9, RabbitMQ 4, Celery 5.6, SeaweedFS (S3) e Next.js 16 / React 19. Conta com 102 arquivos de teste Pytest no backend, 17 suítes unitárias no frontend, backup cifrado de hora em hora e teste automático de restauração semanal. App Expo, extensão do Google Meet, Telegram e VoIP seguem em teste.</p>
 <b>Tech Stack:</b><br>
@@ -80,11 +80,13 @@
 <tr>
 <td width="50%" valign="top">
   <h4 align="center"><a href="https://github.com/antonyandrade01/skorp-fit">Skorp Fit</a></h4>
+  <p align="center"><a href="https://gym.antonyandrade.com.br">gym.antonyandrade.com.br</a></p>
   <p><b>EN:</b> Offline-first workout and GPS cardio PWA in production (9 users, 220 logged workouts). Single TypeScript codebase on Node 24 (native type stripping) + Hono 4.7 + React 19 + PostgreSQL JSONB + IndexedDB, with Hevy import and a separate Python + Blender 4.2 headless pipeline for 320 CC0 3D exercise animations.<br><br><b>PT:</b> PWA offline-first de treinos e cardio por GPS em produção (9 usuários, 220 treinos registrados). Base única em TypeScript no Node 24 (type stripping nativo), Hono 4.7, React 19, PostgreSQL com JSONB e IndexedDB, importação do Hevy e pipeline separado em Python + Blender 4.2 headless para 320 animações 3D CC0.</p>
   <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=ts,nodejs,react,vite,postgres,python,blender" /></p>
 </td>
 <td width="50%" valign="top">
   <h4 align="center"><a href="https://github.com/antonyandrade01/skorp-clinic">Skorp Clinic</a></h4>
+  <p align="center"><a href="https://evolucao.antonyandrade.com.br">evolucao.antonyandrade.com.br</a></p>
   <p><b>EN:</b> Multi-tenant clinical progress notes service in early testing (2 users, 3 clinicians, 10 notes; 103 Pytest tests passing). Consumes WhatsApp audio/text via RabbitMQ, transcribes locally with faster-whisper, isolates session structuring from patient history, enforces strict RLS (no DELETE for app role), and queues post-approval consolidation via SQL trigger + <code>SKIP LOCKED</code>.<br><br><b>PT:</b> Serviço multi-tenant de evoluções clínicas em teste inicial (2 usuários, 3 profissionais, 10 evoluções; 103 testes Pytest passando). Consome áudio/texto do WhatsApp via RabbitMQ, transcreve localmente com faster-whisper, isola o ato clínico do histórico, aplica RLS sem DELETE no papel da API e consolida após aprovação por trigger SQL + <code>SKIP LOCKED</code>.</p>
   <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=python,fastapi,postgres,rabbitmq,docker,linux" /></p>
 </td>
@@ -92,6 +94,7 @@
 <tr>
 <td width="50%" valign="top">
   <h4 align="center"><a href="https://github.com/antonyandrade01/skorp-finance">Skorp Finance</a></h4>
+  <p align="center"><a href="https://financeiro.antonyandrade.com.br">financeiro.antonyandrade.com.br</a></p>
   <p><b>EN:</b> Personal and family finance platform (paused, 23 users, 945 transactions, 36 statement imports). Started in FastAPI and rewritten in Java 25 + Spring Boot 4 (Spring Modulith, 31 Flyway migrations, PostgreSQL 18 RLS, Testcontainers) as a practical study project to learn the Java backend stack. Includes Next.js 16 web and Expo mobile clients.<br><br><b>PT:</b> Plataforma de controle financeiro pessoal e familiar (pausada, 23 usuários, 945 transações, 36 importações de extrato). Começou em FastAPI e foi reescrita em Java 25 + Spring Boot 4 (Spring Modulith, 31 migrations Flyway, PostgreSQL 18 com RLS, Testcontainers) como projeto de estudo prático em Java. Inclui web em Next.js 16 e mobile em Expo.</p>
   <p align="center"><b>Tech Stack:</b><br><img src="https://skillicons.dev/icons?i=java,spring,postgres,nextjs,ts,docker" /></p>
 </td>
